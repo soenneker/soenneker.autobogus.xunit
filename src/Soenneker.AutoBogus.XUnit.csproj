@@ -42,6 +42,6 @@
 
     <ItemGroup>
         <PackageReference Include="Soenneker.Utils.AutoBogus" Version="4.0.844" />
-        <PackageReference Include="xunit.v3.extensibility.core" Version="3.2.1" />
+        <PackageReference Include="xunit.v3.extensibility.core" Version="3.2.2" />
     </ItemGroup>
 </Project>
