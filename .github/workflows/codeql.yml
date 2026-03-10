@@ -3,8 +3,8 @@ name: codeql
 on:
   push:
     branches: [ "main" ]
-    paths:
-      - 'src/**'
+    paths-ignore:
+      - 'test/**'
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
