@@ -39,7 +39,7 @@ jobs:
         run: |
           {
             echo "PACKAGE_RELEASE_NOTES<<EOF"
-            git log -1 --pretty=%s
+            git log -1 --pretty=%B
             echo "EOF"
           } >> "$GITHUB_ENV"
 
