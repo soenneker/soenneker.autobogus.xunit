@@ -27,7 +27,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\src\Soenneker.AutoBogus.XUnit.csproj" />
+        <ProjectReference Include="..\..\src\Soenneker.AutoBogus.XUnit\Soenneker.AutoBogus.XUnit.csproj" />
     </ItemGroup>
 
     <ItemGroup>
