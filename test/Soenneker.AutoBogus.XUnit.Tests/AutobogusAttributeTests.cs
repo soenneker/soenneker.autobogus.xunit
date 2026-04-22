@@ -1,8 +1,7 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using AwesomeAssertions;
 using Soenneker.AutoBogus.XUnit.Tests.Dtos;
-using Xunit;
 
 namespace Soenneker.AutoBogus.XUnit.Tests;
 
